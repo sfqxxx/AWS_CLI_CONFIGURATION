@@ -32,9 +32,6 @@ Connect to your EC2 instance using either:
 ```bash
 sudo apt update
 ```
-<img width="1470" height="883" alt="image" src="https://github.com/user-attachments/assets/1344da6a-4e5b-4a57-9fbd-2efcd2203524" />
-<img width="1090" height="523" alt="image" src="https://github.com/user-attachments/assets/b16f3303-6900-4917-b5bd-0619fe478cc4" />
-
 ---
 
 ### 3. Install AWS CLI
@@ -74,7 +71,8 @@ aws-cli/2.x.x Python/3.x.x Linux/x.x.x exe/x86_64.x
 ---
 
 ### 5. Obtain AWS Access Keys
-
+<img width="1470" height="883" alt="image" src="https://github.com/user-attachments/assets/1344da6a-4e5b-4a57-9fbd-2efcd2203524" />
+<img width="1090" height="523" alt="image" src="https://github.com/user-attachments/assets/b16f3303-6900-4917-b5bd-0619fe478cc4" />
 1. Open the **AWS Management Console**
 2. Navigate to **Security Credentials** (click on your username in top-right)
 3. Go to **Access Keys** section
